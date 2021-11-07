@@ -6,4 +6,5 @@ Just for notes and stuff
     <li><a href="Python Notes-I (Very Basic).ipynb">Python Basic Concepts Part-I</a></li>
     <li><a href="Python Notes-II (Very Basic).ipynb">Python Basic Concepts Part-II</a></li>
     <li><a href="howToImport.py">Importing Modules</a></li>
+    <li><a href="NumPy_Tutorial.ipynb">NumPy-I</a></li>
 </ul>
